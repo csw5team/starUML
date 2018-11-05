@@ -45,3 +45,4 @@
 	* 회원 ID (FK)
 	* 추천 스타일
 	* 사용자 선택 스타일
+<img src="https://github.com/csw5team/starUML/blob/master/EntityPackageOverview.jpg?raw=true">
